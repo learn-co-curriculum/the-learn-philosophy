@@ -15,3 +15,5 @@ Learn will demand that you be patient, resilient, resourceful, and gritty. Isn't
 We do our best to offer a curriculum that is clear, digestible, engaging, challenging, and deep. The curriculum you'll encounter on Learn is rigorous. Expect it to be a little more challenging than other online learning platforms. We don't dumb anything down because we believe in your infinite capacity to learn.
 
 Finally, we don't believe in learning alone. As you make progress, expect to bump into other learners just like you, ready and willing to help each other succeed. Together, we can go further than we could ever go alone. We expect everyone on Learn to be friendly, respectful, helpful, and nice. Learn is something special.
+
+<a href='https://learn.co/lessons/the-learn-philosophy' data-visibility='hidden'>View this lesson on Learn.co</a>

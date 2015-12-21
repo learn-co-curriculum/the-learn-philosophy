@@ -21,4 +21,5 @@ Finally, we don't believe in learning alone. As you make progress, expect to bum
 You're just getting started. To proceed to the next lesson, press the "I'm Done" button in the right rail then hit "Next Lesson". 
 
 Happy Learning. 
+
 <a href='https://learn.co/lessons/the-learn-philosophy' data-visibility='hidden'>View this lesson on Learn.co</a>

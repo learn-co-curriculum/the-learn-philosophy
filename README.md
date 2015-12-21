@@ -16,4 +16,10 @@ We do our best to offer a curriculum that is clear, digestible, engaging, challe
 
 Finally, we don't believe in learning alone. As you make progress, expect to bump into other learners just like you, ready and willing to help each other succeed. Together, we can go further than we could ever go alone. We expect everyone on Learn to be friendly, respectful, helpful, and nice. Learn is something special.
 
+## Keep going!
+
+You're just getting started. To proceed to the next lesson, press the "I'm Done" button in the right rail then hit "Next Lesson". Easy.
+
+Happy Learning!
+
 <a href='https://learn.co/lessons/the-learn-philosophy' data-visibility='hidden'>View this lesson on Learn.co</a>

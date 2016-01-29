@@ -22,4 +22,4 @@ You're just getting started. To proceed to the next lesson, press the "I'm Done"
 
 Happy Learning. 
 
-<a href='https://learn.co/lessons/the-learn-philosophy' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/the-learn-philosophy' title='The Learn Philosophy'>The Learn Philosophy</a> on Learn.co and start learning to code for free.</p>

@@ -1,4 +1,4 @@
-# The Learn Philosophy
+1. * > **********# The Learn Philosophy[![](http://)](http://)
 
 # Welcome!!!!
 
@@ -23,3 +23,5 @@ You're just getting started. To proceed to the next lesson, press the "I'm Done"
 Happy Learning. 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/the-learn-philosophy' title='The Learn Philosophy'>The Learn Philosophy</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/the-learn-philosophy'>The Learn Philosophy</a> on Learn.co and start learning to code for free.</p>

@@ -1,8 +1,8 @@
 # The Learn Philosophy
 
-# Welcome!!!!
+# Welcome—Again!
 
-Welcome to Learn! We're thrilled that you've joined our community of learners!
+We're thrilled that you've joined the Learn community!
 
 ## The Learn Community
 
@@ -16,10 +16,7 @@ We do our best to offer a curriculum that is clear, digestible, engaging, challe
 
 Finally, we don't believe in learning alone. As you make progress, expect to bump into other learners just like you, ready and willing to help each other succeed. Together, we can go further than we could ever go alone. We expect everyone on Learn to be friendly, respectful, helpful, and nice. Learn is something special.
 
-## Keep going!
-
-You're just getting started. To proceed to the next lesson, press the "I'm Done" button in the right rail then hit "Next Lesson". 
-
-Happy Learning. 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/the-learn-philosophy' title='The Learn Philosophy'>The Learn Philosophy</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/the-learn-philosophy'>The Learn Philosophy</a> on Learn.co and start learning to code for free.</p>

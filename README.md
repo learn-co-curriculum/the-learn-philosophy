@@ -24,7 +24,7 @@ and hammers are made?
 No. It may be _valuable_ to know what type of wood we're using, or _interesting_
 to understand how nails are made, but these things won't stop us from
 successfully building a birdhouse. In fact, we likely won't fully appreciate the
-materials, the wood and nails, we're using until we've gone through the
+materials, the wood and nails we're using until we've gone through the
 experience of _building the birdhouse first_.
 
 After building birdhouse v1, we can go back and better understand the best type
